@@ -1,0 +1,14 @@
+{
+  "name": "your-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "echo": "KKN PPM",
+    "start": "index.js"
+  }
+}
