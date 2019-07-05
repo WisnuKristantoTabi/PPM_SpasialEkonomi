@@ -1,14 +1,24 @@
 {
-  "name": "your-package",
+  "name": "ppm_spasialekonomi",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project KKN PPM Pemetan Spasial Ekonomi 2019 Unhas",
   "main": "index.js",
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {},
   "scripts": {
-    "echo": "KKN PPM",
-    "start": "index.js"
-  }
+    "start":"node index.js",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WisnuKristantoTabi/PPM_SpasialEkonomi.git"
+  },
+  "author": "KKN PPM Spasial Ekonomi 2019",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WisnuKristantoTabi/PPM_SpasialEkonomi/issues"
+  },
+  "homepage": "https://github.com/WisnuKristantoTabi/PPM_SpasialEkonomi#readme"
 }
